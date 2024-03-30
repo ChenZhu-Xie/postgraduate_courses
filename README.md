@@ -28,6 +28,7 @@
     * (Personal stage) during high school
     * (World time) in 2014
 
+
 <!-- ## Software Architecture
 Software architecture description
 
