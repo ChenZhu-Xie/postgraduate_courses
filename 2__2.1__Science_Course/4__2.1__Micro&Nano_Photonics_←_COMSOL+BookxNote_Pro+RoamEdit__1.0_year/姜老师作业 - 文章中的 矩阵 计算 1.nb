@@ -1,0 +1,237 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      7332,        229]
+NotebookOptionsPosition[      6895,        212]
+NotebookOutlinePosition[      7377,        231]
+CellTagsIndexPosition[      7334,        228]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Clear", "[", "\"\<Global`*\>\"", "]"}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Needs", "[", "\"\<Notation`\>\"", "]"}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubscriptBox["c", "00"]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubscriptBox["c", "01"]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubscriptBox["c", "10"]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubscriptBox["c", "11"]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubscriptBox["t", "00"]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubscriptBox["t", "01"]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubscriptBox["t", "10"]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubscriptBox["t", "11"]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubsuperscriptBox["a", "0", 
+      RowBox[{"(", "in", ")"}]]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubsuperscriptBox["a", "1", 
+      RowBox[{"(", "in", ")"}]]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubsuperscriptBox["a", "0", 
+      RowBox[{"(", "out", ")"}]]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SubsuperscriptBox["a", "1", 
+      RowBox[{"(", "out", ")"}]]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SuperscriptBox["a", 
+      RowBox[{"(", "in", ")"}]]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Symbolize", "[", 
+   TemplateBox[{
+     SuperscriptBox["a", 
+      RowBox[{"(", "out", ")"}]]},
+    "NotationTemplateTag"], "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Cp", "=", 
+   RowBox[{"(", GridBox[{
+      {
+       SubscriptBox["c", "00"], 
+       SubscriptBox["c", "01"]},
+      {
+       SubscriptBox["c", "10"], 
+       SubscriptBox["c", "11"]}
+     }], ")"}]}], ";", 
+  RowBox[{"T", "=", 
+   RowBox[{"(", GridBox[{
+      {
+       SubscriptBox["t", "00"], 
+       SubscriptBox["t", "01"]},
+      {
+       SubscriptBox["t", "10"], 
+       SubscriptBox["t", "11"]}
+     }], ")"}]}], ";", 
+  RowBox[{
+   SuperscriptBox["a", 
+    RowBox[{"(", "in", ")"}]], "=", 
+   RowBox[{"(", GridBox[{
+      {
+       SubsuperscriptBox["a", "0", 
+        RowBox[{"(", "in", ")"}]]},
+      {
+       SubsuperscriptBox["a", "1", 
+        RowBox[{"(", "in", ")"}]]}
+     }], ")"}]}], ";", 
+  RowBox[{
+   SuperscriptBox["a", 
+    RowBox[{"(", "out", ")"}]], "=", 
+   RowBox[{"(", GridBox[{
+      {
+       SubsuperscriptBox["a", "0", 
+        RowBox[{"(", "out", ")"}]]},
+      {
+       SubsuperscriptBox["a", "1", 
+        RowBox[{"(", "out", ")"}]]}
+     }], ")"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   SubsuperscriptBox["a", "0", 
+    RowBox[{"(", "in", ")"}]], "=", "1"}], ";", 
+  RowBox[{
+   SubsuperscriptBox["a", "1", 
+    RowBox[{"(", "in", ")"}]], "=", "0"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   SubscriptBox["c", "00"], "=", 
+   RowBox[{"Cos", "[", "\[Stigma]", "]"}]}], ";", 
+  RowBox[{
+   SubscriptBox["c", "01"], "=", 
+   RowBox[{
+    RowBox[{"-", "\[ImaginaryI]"}], "*", 
+    RowBox[{"Sin", "[", "\[Stigma]", "]"}], "*", 
+    SuperscriptBox["\[ExponentialE]", 
+     RowBox[{
+      RowBox[{"-", "\[ImaginaryI]"}], "*", "\[CapitalOmega]", "*", "t"}]]}]}],
+   ";", 
+  RowBox[{
+   SubscriptBox["c", "10"], "=", 
+   RowBox[{
+    RowBox[{"-", "\[ImaginaryI]"}], "*", 
+    RowBox[{"Sin", "[", "\[Stigma]", "]"}], "*", 
+    SuperscriptBox["\[ExponentialE]", 
+     RowBox[{"\[ImaginaryI]", "*", "\[CapitalOmega]", "*", "t"}]]}]}], ";", 
+  RowBox[{
+   SubscriptBox["c", "11"], "=", 
+   RowBox[{"Cos", "[", "\[Stigma]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  SuperscriptBox["a", 
+   RowBox[{"(", "in", ")"}]], "//", "MatrixForm"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Transpose", "[", "T", "]"}], "//", 
+  "MatrixForm"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Transpose", "[", "T", "]"}], "*", "Cp"}], "//", 
+  "MatrixForm"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Transpose", "[", "T", "]"}], ".", "Cp"}], "//", 
+  "MatrixForm"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Transpose", "[", "T", "]"}], ".", "Cp", ".", "T"}], "//", 
+  "MatrixForm"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Transpose", "[", "T", "]"}], ".", "Cp", ".", "T", ".", 
+   SuperscriptBox["a", 
+    RowBox[{"(", "in", ")"}]]}], "//", "MatrixForm"}]}], "Input",
+ CellChangeTimes->{{3.82989993321778*^9, 3.829899944424215*^9}, {
+   3.8299000718633966`*^9, 3.8299000751356697`*^9}, 3.8343006343258114`*^9, {
+   3.834300714114283*^9, 3.834300715767435*^9}, {3.834300751071479*^9, 
+   3.8343009032294054`*^9}, {3.8343009333414736`*^9, 3.834301220545941*^9}, {
+   3.8343012508404408`*^9, 3.8343012653693438`*^9}, {3.8343013685767546`*^9, 
+   3.8343014317840185`*^9}, 3.834301486104519*^9, {3.834301519464336*^9, 
+   3.8343015941732435`*^9}, {3.8343016378771944`*^9, 
+   3.8343017472992735`*^9}, {3.8343018827484293`*^9, 3.834301947562111*^9}, {
+   3.8343020703052545`*^9, 3.8343021005603733`*^9}, {3.8343021331910152`*^9, 
+   3.834302138671438*^9}, {3.834302183175548*^9, 3.8343022286466894`*^9}, {
+   3.8343023252902517`*^9, 3.8343023259579153`*^9}, {3.8343023832369347`*^9, 
+   3.8343024272260375`*^9}, {3.834302461078845*^9, 3.8343025948277674`*^9}},
+ CellLabel->
+  "In[626]:=",ExpressionUUID->"ad5c19ba-30c3-4aef-9d2d-0161e5b522a4"]
+},
+WindowSize->{2544, 1341},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+TaggingRules->{"TryRealOnly" -> False},
+Magnification:>2.1 Inherited,
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (2020\:5e743\:670814\
+\:65e5)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"e4c9d2f2-75a6-48ee-aa3e-a9af7916eeb8"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 6333, 190, 1756, "Input",ExpressionUUID->"ad5c19ba-30c3-4aef-9d2d-0161e5b522a4"]
+}
+]
+*)
+
