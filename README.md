@@ -1,33 +1,40 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『Home/Main entrance』page")
+[![Courses Net.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/Courses_Net.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM&feature=youtu.be "Courses Net.mp4")
 
-* 中文「自述文档」㊥ 👉 [硕士_课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses)
-
-# Static webpages (Crack password :point_right: log in Xanadu)
+# postgraduate Personal courses
 
 ## About
-* This project 👉 [offline web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) is a series of static personal webpages I created at the age of 16.
+* This repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses)
+    * This repo can be merged with the repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities) and 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
+        * The 3 together「fully described」my college career「as a postgraduate」
+* 中文「自述文档」㊥ 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses)
+
+[![科学方法导论 - 虚拟项目答辩.pptx → .mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/ppt_cover.png)](https://www.youtube.com/watch?v=nd0E2FH9xao "科学方法导论 - 虚拟项目答辩.pptx → .mp4")
 
 ## Description
-* Computer course assignment during high school.
-* Old technology stack: **FrontPage**.
-    * Limited to the time and technology at that time, the effect may be unsatisfactory
-    * But in terms of ideas, there are bi-directional links, puzzle solving/decryption, modifying game files, space exploration, hand-picked background music, etc. All of this constitutes the exploration, shouting, and wandering of that personal period.
+* Personal creations and competitions during postgraduate studies; Roommate courses; Off campus internships and volunteer courses
+    * 「Important content」is placed as「files」in the「primary directory」
+    * The「detailed information」of「the file」is placed in the form of「a folder」in the「secondary directory」with「the same serial number」as「the file」
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『Portal/Hidden entrance』page")
+[![Video for College Party Committee.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/Video_Cover.png)](https://www.youtube.com/watch?v=QYr1QQYnC4A "Video for College Party Committee.mp4")
 
-## Inplementation
+<!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
 2. Explore freely :point_right: until you decrypt the password :point_right: and unlock the hidden webpages.
     * Solve the riddle! Or you'll be stuck here: in the middle of nowhere forever!
 3. PS: Due to its age (2014_05), page music may not be playable,  
-    * and the background image size cannot adapt to the browser window size.
+    * and the background image size cannot adapt to the browser window size. -->
 
 ## History
-* This project 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) was built
-    * (Personal time) by 16-year-old little Xie
-    * (Personal stage) during high school
-    * (World time) in 2014
+* This project 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses) was built
+    * (Personal time) by 22~24-year-old little Xie
+    * (World time) during 2020 - 2022
+    * (Personal stage) when I was in college as a postgraduate
 
+<!-- TEST 666 -->
+
+[![Nanostructured Materials & Nanotechnology - Course Assignment](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/1.纳米材料与技术_作业一.png)](https://github.com/ChenZhu-Xie/postgraduate_courses/tree/master/2__2.1__Science_Course/5__2.2__Nanostructured_Materials_&_Nanotechnology_%E2%86%90_GeoGebra+BookxNote_Pro+RoamEdit__1.0_year/%E4%BD%9C%E4%B8%9A%E4%B8%80 "Nanostructured Materials & Nanotechnology - Course Assignment")
+
+<!-- test -->
 
 <!-- ## Software Architecture
 Software architecture description

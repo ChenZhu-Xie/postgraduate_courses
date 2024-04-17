@@ -1,34 +1,38 @@
-<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『主入口』页面") -->
-![fig](https://gitee.com/ChenZhu-Xie/offline_web_pages/raw/master/img/index.png "『主入口』页面")
+[![研究生 课程.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/Courses_Net.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM "研究生 课程.mp4")
 
-* English「README」ⓔ 👉 [postgraduate_courses](https://github.com/ChenZhu-Xie/postgraduate_courses)
-
-# 静态 个人网页 (解谜密码 :point_right: 登陆 世外桃源)
+# 硕士 个人课程
 
 ## 关于
-* 该项目 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B) 是 16 岁的我 做的 静态个人网页（集）
+* 该仓库 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses)
+    * 与仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities) 和 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia) 一起
+        * 三者「完整地描述」了「我的 硕士研究生 生涯」
+* English「README」ⓔ 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses)
+
+<!-- [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_courses/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me") -->
+[![Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/ppt_cover.png)](https://www.bilibili.com/video/BV1NM4y1g7VK "Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4")
 
 ## 介绍
-* 高中时期 的 微机课 大作业
-* 用 **FrontPage** 做的
-    * 限于当时的时间和技术，只能做到该程度，效果上可能差强人意
-    * 但点子上，有双向链接、解谜/密、修改游戏文件、太空探索、精选背景音乐等，『彷徨』与『呐喊』的影子
+* 硕士 研究生 时期 的 个人创造、艺术、工作流；室友课程、志愿服务
+    * 「重要内容」以「文件」的形式，放在「一级目录」中
+    * 「文件」的「详细信息」，以「文件夹」的形式，放在与「文件」有「相同序号」的「二级目录」中
 
-<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『隐藏入口 / 传送门』页面") -->
-![fig](https://gitee.com/ChenZhu-Xie/offline_web_pages/raw/master/img/entrance.png "『主入口』页面")
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_courses/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
+<!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_courses/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
+[![为 学院党支部 制作 党日课程视频.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/Video_Cover.png)](https://www.bilibili.com/video/BV1A54y1r7bQ "为 学院党支部 制作 党日课程视频.mp4")
 
-## 实施
-1. 从 “主页（我的小网站入口）.lnk” 进入 Home。  
-2. 自由探索 :point_right: 直到获得密码 :point_right: 进入隐藏网页。
-    * 解开谜题！否则你将永远困在：这片虚无之地！
-3. PS: 由于年代久远 (2014_05)，页面音乐可能无法播放，  
-    * 且背景图片尺寸无法自适应浏览器窗口大小。
+<!-- ## 实施
+1. 演讲 ppt 含视频
+    * 要播放视频，需要进入「Presentations」目录下的「子目录」中查看 ppt
+2. 学业水平 含「随时间演化」的切片/断面
+    * 需要进入「Total_Grades」文件夹的「子文件夹」中查看 相关文件 -->
 
 ## 历史
-* 该项目 👉 [脱机个人网页们](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
-    * （个人时间）由 16 岁小谢
-    * （世界时间）在 2014 年 的 
-    * （个人阶段）高中时期 搭建
+* 该仓库 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses)
+    * （个人时间）由 22 - 24 岁小谢
+    * （世界时间）在 2020 - 2022 年的
+    * （个人阶段）研究生 阶段 创建的
+
+[![纳米材料与技术 - 课程作业](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/1.纳米材料与技术_作业一.png)](https://gitee.com/ChenZhu-Xie/postgraduate_courses/tree/master/2__2.1__Science_Course/5__2.2__Nanostructured_Materials_&_Nanotechnology_%E2%86%90_GeoGebra+BookxNote_Pro+RoamEdit__1.0_year/%E4%BD%9C%E4%B8%9A%E4%B8%80 "纳米材料与技术 - 课程作业")
 
 <!-- ## 软件架构
 软件架构说明
