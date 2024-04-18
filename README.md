@@ -8,14 +8,16 @@
         * The 3 together「fully described」my college career「as a postgraduate」
 * 中文「自述文档」㊥ 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses)
 
-[![科学方法导论 - 虚拟项目答辩.pptx → .mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/ppt_cover.png)](https://www.youtube.com/watch?v=nd0E2FH9xao "科学方法导论 - 虚拟项目答辩.pptx → .mp4")
+[![The dispersion characteristic curve of LP mode of circular waveguide with step index under weak conduction condition.mw](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/The_dispersion_characteristic_curve_of_LP_mode_of_circular_waveguide_with_step_index_under_weak_conduction_condition.png)](https://github.com/ChenZhu-Xie/postgraduate_courses/tree/master/2__2.1__Science_Course/2__1.2__Guide_Waves_Optics_%E2%86%90_Maple%2BCOMSOL%2BXmind%2BRoamEdit__0.5_year/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%BD%9C%E4%B8%9A "The dispersion characteristic curve of LP mode of circular waveguide with step index under weak conduction condition.mw")
+
+[![Labview Project Documentation.pdf](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/Assignment_of_Labview_-_Fiber_Optic_Inspection_←_LabView.png)](https://github.com/ChenZhu-Xie/postgraduate_courses/blob/master/3__2.2__Engineering_Course/3__2.3__Labview__1.0_year/%E8%99%9A%E6%8B%9F%E4%BB%AA%E5%99%A82021%E8%AF%BE%E8%AE%BE_%E9%80%89%E9%A2%98%E4%B8%80_%E8%B0%A2%E5%B0%98%E7%AB%B9/%E5%90%84%20VI%20%E7%9A%84%20%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.pdf "Labview Project Documentation.pdf")
 
 ## Description
 * Personal creations and competitions during postgraduate studies; Roommate courses; Off campus internships and volunteer courses
     * 「Important content」is placed as「files」in the「primary directory」
     * The「detailed information」of「the file」is placed in the form of「a folder」in the「secondary directory」with「the same serial number」as「the file」
 
-[![Video for College Party Committee.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/Video_Cover.png)](https://www.youtube.com/watch?v=QYr1QQYnC4A "Video for College Party Committee.mp4")
+[![科学方法导论 - 虚拟项目答辩.pptx → .mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/ppt_cover.png)](https://www.youtube.com/watch?v=nd0E2FH9xao "科学方法导论 - 虚拟项目答辩.pptx → .mp4")
 
 <!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
