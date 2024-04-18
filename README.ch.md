@@ -9,7 +9,8 @@
 * English「README」ⓔ 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses)
 
 <!-- [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_courses/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me") -->
-[![Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/ppt_cover.png)](https://www.bilibili.com/video/BV1NM4y1g7VK "Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4")
+
+[![Labview Project.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/Assignment_of_Labview_-_Fiber_Optic_Inspection_←_LabView.png)](https://www.bilibili.com/video/BV1A54y1r7bQ "Labview Project.mp4")
 
 ## 介绍
 * 硕士 研究生 时期 的 个人创造、艺术、工作流；室友课程、志愿服务
@@ -18,7 +19,7 @@
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_courses/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_courses/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
-[![为 学院党支部 制作 党日课程视频.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/Video_Cover.png)](https://www.bilibili.com/video/BV1A54y1r7bQ "为 学院党支部 制作 党日课程视频.mp4")
+[![Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/ppt_cover.png)](https://www.bilibili.com/video/BV1NM4y1g7VK "Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4")
 
 <!-- ## 实施
 1. 演讲 ppt 含视频
