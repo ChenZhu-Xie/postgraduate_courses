@@ -12,7 +12,7 @@
 
 [![弱导条件下阶跃折射率圆波导_LP_模的色散特性曲线.mw](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/The_dispersion_characteristic_curve_of_LP_mode_of_circular_waveguide_with_step_index_under_weak_conduction_condition.png)](https://gitee.com/ChenZhu-Xie/postgraduate_courses/blob/master/2__2.1__Science_Course/2__1.2__Guide_Waves_Optics_%E2%86%90_Maple%2BCOMSOL%2BXmind%2BRoamEdit__0.5_year/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%BD%9C%E4%B8%9A "弱导条件下阶跃折射率圆波导_LP_模的色散特性曲线.mw")
 
-[![Labview 项目 说明文档.pdf](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/Assignment_of_Labview_-_Fiber_Optic_Inspection_←_LabView.png)](https://gitee.com/ChenZhu-Xie/postgraduate_courses/blob/master/3__2.2__Engineering_Course/3__2.3__Labview__1.0_year/%E8%99%9A%E6%8B%9F%E4%BB%AA%E5%99%A82021%E8%AF%BE%E8%AE%BE_%E9%80%89%E9%A2%98%E4%B8%80_%E8%B0%A2%E5%B0%98%E7%AB%B9/%E5%90%84%20VI%20%E7%9A%84%20%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.pdf "Labview 项目 说明文档.pdf")
+[![Labview 项目 说明文档.pdf](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/Labview_Project_-_Fiber_Optic_Inspection_←_LabView.png)](https://gitee.com/ChenZhu-Xie/postgraduate_courses/blob/master/3__2.2__Engineering_Course/3__2.3__Labview__1.0_year/%E8%99%9A%E6%8B%9F%E4%BB%AA%E5%99%A82021%E8%AF%BE%E8%AE%BE_%E9%80%89%E9%A2%98%E4%B8%80_%E8%B0%A2%E5%B0%98%E7%AB%B9/%E5%90%84%20VI%20%E7%9A%84%20%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.pdf "Labview 项目 说明文档.pdf")
 
 ## 介绍
 * 硕士 研究生 时期 的 个人创造、艺术、工作流；室友课程、志愿服务
