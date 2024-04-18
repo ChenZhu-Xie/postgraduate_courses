@@ -1,4 +1,4 @@
-[![研究生 课程.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/Courses_Net.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM "研究生 课程.mp4")
+[![研究生课程 网状大纲双链笔记 - Gitee 仓库目录](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/Courses_Net.png)](https://gitee.com/ChenZhu-Xie/postgraduate_courses/tree/master/2__2.1__Science_Course "研究生课程 网状大纲双链笔记 - Gitee 仓库目录")
 
 # 硕士 个人课程
 
@@ -22,7 +22,7 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_courses/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_courses/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 
-[![Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/ppt_cover.png)](https://www.bilibili.com/video/BV1NM4y1g7VK "Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4")
+[![科学方法导论 - 虚拟项目答辩.pptx → .mp4](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/ppt_cover.png)](https://www.bilibili.com/video/BV1NM4y1g7VK "科学方法导论 - 虚拟项目答辩.pptx → .mp4")
 
 <!-- ## 实施
 1. 演讲 ppt 含视频

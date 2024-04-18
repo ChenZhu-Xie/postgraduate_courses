@@ -1,4 +1,4 @@
-[![Courses Net.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/Courses_Net.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM&feature=youtu.be "Courses Net.mp4")
+[![Net of Notes for Postgraduate Courses - GitHub Dir](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/Courses_Net.png)](https://github.com/ChenZhu-Xie/postgraduate_courses/tree/master/2__2.1__Science_Course "Net of Notes for Postgraduate Courses - GitHub Dir")
 
 # postgraduate Personal courses
 
@@ -17,7 +17,7 @@
     * 「Important content」is placed as「files」in the「primary directory」
     * The「detailed information」of「the file」is placed in the form of「a folder」in the「secondary directory」with「the same serial number」as「the file」
 
-[![科学方法导论 - 虚拟项目答辩.pptx → .mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/ppt_cover.png)](https://www.youtube.com/watch?v=nd0E2FH9xao "科学方法导论 - 虚拟项目答辩.pptx → .mp4")
+[![Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/ppt_cover.png)](https://www.youtube.com/watch?v=nd0E2FH9xao "Introduction to Scientific Methods - Virtual Project Defense.pptx → .mp4")
 
 <!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
