@@ -4,8 +4,8 @@
 
 ## About
 * This repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses)
-    * This repo can be merged with the repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities) and 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
-        * The 3 together「fully described」my college career「as a postgraduate」
+    * can be merged with the repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities) and repo 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
+        * The 3 repos together「fully described」my graduate career「as a postgraduate」
 * 中文「自述文档」㊥ 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses)
 
 [![The dispersion characteristic curve of LP mode of circular waveguide with step index under weak conduction condition.mw](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/The_dispersion_characteristic_curve_of_LP_mode_of_circular_waveguide_with_step_index_under_weak_conduction_condition.png)](https://github.com/ChenZhu-Xie/postgraduate_courses/tree/master/2__2.1__Science_Course/2__1.2__Guide_Waves_Optics_%E2%86%90_Maple%2BCOMSOL%2BXmind%2BRoamEdit__0.5_year/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%BD%9C%E4%B8%9A "The dispersion characteristic curve of LP mode of circular waveguide with step index under weak conduction condition.mw")

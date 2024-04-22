@@ -34,7 +34,7 @@
 * 该仓库 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses)
     * （个人时间）由 22 - 24 岁小谢
     * （世界时间）在 2020 - 2022 年的
-    * （个人阶段）研究生 阶段 创建的
+    * （个人阶段）硕士 研究生阶段 创建的
 
 [![纳米材料与技术 - 课程作业](https://gitee.com/ChenZhu-Xie/postgraduate_courses/raw/master/img/1.纳米材料与技术_作业一.png)](https://gitee.com/ChenZhu-Xie/postgraduate_courses/tree/master/2__2.1__Science_Course/5__2.2__Nanostructured_Materials_&_Nanotechnology_%E2%86%90_GeoGebra+BookxNote_Pro+RoamEdit__1.0_year/%E4%BD%9C%E4%B8%9A%E4%B8%80 "纳米材料与技术 - 课程作业")
 
