@@ -1,11 +1,11 @@
 [![Net of Notes for Postgraduate Courses - GitHub Dir](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/Courses_Net.png)](https://github.com/ChenZhu-Xie/postgraduate_courses/tree/master/2__2.1__Science_Course "Net of Notes for Postgraduate Courses - GitHub Dir")
 
-# postgraduate Personal courses
+# Postgraduate Personal courses
 
 ## About
 * This repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses)
     * can be merged with the repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities) and repo 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
-        * The 3 repos together「fully described」my graduate career「as a postgraduate」
+        * The 3 repos together「fully described」my postgraduate career
 * 中文「自述文档」㊥ 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses)
 
 [![The dispersion characteristic curve of LP mode of circular waveguide with step index under weak conduction condition.mw](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/The_dispersion_characteristic_curve_of_LP_mode_of_circular_waveguide_with_step_index_under_weak_conduction_condition.png)](https://github.com/ChenZhu-Xie/postgraduate_courses/tree/master/2__2.1__Science_Course/2__1.2__Guide_Waves_Optics_%E2%86%90_Maple%2BCOMSOL%2BXmind%2BRoamEdit__0.5_year/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%BD%9C%E4%B8%9A "The dispersion characteristic curve of LP mode of circular waveguide with step index under weak conduction condition.mw")
@@ -13,7 +13,7 @@
 [![Labview Project Documentation.pdf](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_courses/master/img/Labview_Project_-_Fiber_Optic_Inspection_←_LabView.png)](https://github.com/ChenZhu-Xie/postgraduate_courses/blob/master/3__2.2__Engineering_Course/3__2.3__Labview__1.0_year/%E8%99%9A%E6%8B%9F%E4%BB%AA%E5%99%A82021%E8%AF%BE%E8%AE%BE_%E9%80%89%E9%A2%98%E4%B8%80_%E8%B0%A2%E5%B0%98%E7%AB%B9/%E5%90%84%20VI%20%E7%9A%84%20%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.pdf "Labview Project Documentation.pdf")
 
 ## Description
-* Personal courses, creations, workflows, and works related to science and technology during the master's degree period
+* Personal courses, creations, workflows, and works related to science and technology during master's studies
     * 「Important content」is placed as「files」in the「primary directory」
     * The「detailed information」of「the file」is placed in the form of「a folder」in the「secondary directory」with「the same serial number」as「the file」
 
@@ -30,7 +30,7 @@
 * This project 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses) was built
     * (Personal time) by 22~24-year-old little Xie
     * (World time) during 2020 - 2022
-    * (Personal stage) when I was in college as a postgraduate
+    * (Personal stage) when I was a postgraduate (0.0~2.0)
 
 <!-- TEST 666 -->
 
